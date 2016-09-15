@@ -5,3 +5,8 @@ This is a game I built utilising Unity3D game engine and Visual studio as a birt
 Address to download this game: https://1drv.ms/w/s!Agy2cxjV1wOXjRN-JtmrJYpK49i2
 
 Please make sure reading the Game introduction.docx before you play! Thanks.
+
+![alt tag](https://raw.githubusercontent.com/sliu353/ProtectMyBirthdayCake-Game-/master/screenshot3.PNG)
+![alt tag](https://raw.githubusercontent.com/sliu353/ProtectMyBirthdayCake-Game-/master/screenshot3.PNG)
+![alt tag](https://raw.githubusercontent.com/sliu353/ProtectMyBirthdayCake-Game-/master/screenshot3.PNG)
+![alt tag](https://raw.githubusercontent.com/sliu353/ProtectMyBirthdayCake-Game-/master/screenshot3.PNG)
