@@ -2,7 +2,7 @@
 
 This is a game I built utilising Unity3D game engine and Visual studio as a birthday gift for a friend. I used local git as back up. However, because once I accidently cleaned up the drive I store my code and git files, all the code of this game is lost. Fortunately I had the executable files and packages uploaded to my OneDrive and anyone are welcome to download and play.
 
-Address to download this game: https://1drv.ms/f/s!Agy2cxjV1wOXjGVKNCzDh33jkcm5
+Address to download this game: https://1drv.ms/f/s!Agy2cxjV1wOXjGVKNCzDh33jkcm5. After redirected to this address, click "Download" button on the top left.
 
 Please make sure reading the Game introduction.docx before you play! Thanks.
 
